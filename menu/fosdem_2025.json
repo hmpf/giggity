@@ -24,6 +24,10 @@
 			{
 				"url": "https://fosdem.org/2025/stands/",
 				"title": "Stands"
+			},
+			{
+				"url": "https://fosdem.org/2025/fringe/",
+				"title": "Fringe"
 			}
 		],
 		"icon": "https://archive.fosdem.org/2018/assets/style/logo-gear-7204a6874eb0128932db10ff4030910401ac06f4e907f8b4a40da24ba592b252.png",
